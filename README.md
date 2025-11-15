@@ -34,3 +34,4 @@
 
 И наооборот единый массив чисел в blend модель.
 
+[Convert-a-single-array-of-numbers-to-an-OBJ](https://github.com/MakarovDs777/Convert-a-single-array-of-numbers-to-an-OBJ/blob/main/Convert-a-single-array-of-numbers-to-an-OBJ.py)
