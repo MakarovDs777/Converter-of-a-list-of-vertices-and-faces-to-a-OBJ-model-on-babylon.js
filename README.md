@@ -28,10 +28,10 @@
 
 [Convert-a-blend-file-to-a-vertex-list-and-mesh.py](https://github.com/MakarovDs777/Convert-a-blend-file-to-a-vertex-list-and-mesh/blob/main/Convert-a-blend-file-to-a-vertex-list-and-mesh.py)
 
-Или если надо превратить blend модель в единный массив чисел:
+Или если надо превратить OBJ модель в единный массив чисел:
 
 [Convert-OBJ-to-a-single-array-of-numbers](https://github.com/MakarovDs777/Convert-OBJ-to-a-single-array-of-numbers/blob/main/Convert-OBJ-to-a-single-array-of-numbers.py)
 
-И наооборот единый массив чисел в blend модель.
+И наооборот единый массив чисел в OBJ модель.
 
 [Convert-a-single-array-of-numbers-to-an-OBJ](https://github.com/MakarovDs777/Convert-a-single-array-of-numbers-to-an-OBJ/blob/main/Convert-a-single-array-of-numbers-to-an-OBJ.py)
