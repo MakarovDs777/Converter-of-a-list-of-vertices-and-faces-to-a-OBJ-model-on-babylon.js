@@ -27,3 +27,10 @@
 Для того что-бы превратить blend модель в список vertex, и faces код python: 
 
 [Convert-a-blend-file-to-a-vertex-list-and-mesh.py](https://github.com/MakarovDs777/Convert-a-blend-file-to-a-vertex-list-and-mesh/blob/main/Convert-a-blend-file-to-a-vertex-list-and-mesh.py)
+
+Или если надо превратить blend модель в единный массив чисел:
+
+[Convert-OBJ-to-a-single-array-of-numbers](https://github.com/MakarovDs777/Convert-OBJ-to-a-single-array-of-numbers/blob/main/Convert-OBJ-to-a-single-array-of-numbers.py)
+
+И наооборот единый массив чисел в blend модель.
+
