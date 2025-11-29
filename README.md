@@ -20,6 +20,8 @@
 
 [Converter of a list of vertices and faces to a OBJ (Version 8 - Different texture groups faces and smooth UV) | Babylon.js Playground](https://playground.babylonjs.com/#246TAV#0)
 
+[Converter of a list of vertices and faces to a OBJ (Version 9 - With an OBJ generation window via vertex, and faces) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#X7B64I)
+
 И наооборот что-бы превратить список vertex, и faces в blend модель код python:
 
 [Converter-of-a-list-of-vertices-and-faces-to-a-OBJ-model](https://github.com/MakarovDs777/Converter-of-a-list-of-vertices-and-faces-to-a-OBJ-model/blob/main/convert-a-blend-file-to-a-vertex-list-and-mesh.py)
