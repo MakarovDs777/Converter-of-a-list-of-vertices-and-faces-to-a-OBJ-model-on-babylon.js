@@ -16,7 +16,7 @@
 
 [Converter of a list of vertices and faces to a OBJ model on babylon.js (Version 4 - Procedural image generation color) | Babylon.js Playground](https://playground.babylonjs.com/#MRB975#0)
 
-Теперь для разных faces нужно сделать разные текстуру URL.
+Теперь для разных faces нужно сделать разные текстуры URL.
 
 [Converter of a list of vertices and faces to a OBJ on babylon.js (Version 5-With marked faces for each side of each OBJ) | Babylon.js Playground](https://playground.babylonjs.com/#C1T0EK#0)
 
