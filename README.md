@@ -32,11 +32,11 @@
 
 [Converter of a list of vertices and faces to a OBJ (Version 6 - With random textures of the selected faces group) | Babylon.js Playground](https://playground.babylonjs.com/#69YY8U#0)
 
-Но каждый раз разные наборы текстур для разных биомов текстур нижних, верхних, и средних faces должны генерироваться разные текстуры в случайных faces а не всегда заданно! 
+Но каждый раз разные наборы текстур для разных биомов текстур нижних, верхних, и средних faces должны генерироваться разные текстуры в случайных faces а не всегда заранее одинаково заданно! 
 
 [Converter of a list of vertices and faces to a OBJ model (Version 7 - With the choice of a random sequence of numbers) | Babylon.js Playground](https://playground.babylonjs.com/#BG3QQB#0)
 
-Отлично теперь нужно сделать ровным UV что-бы смотьрелось рвоно а не рванно! 
+Отлично теперь нужно сделать ровным UV что-бы смотрелось ровно а не рванно! 
 
 [Converter of a list of vertices and faces to a OBJ (Version 8 - Different texture groups faces and smooth UV) | Babylon.js Playground](https://playground.babylonjs.com/#246TAV#0)
 
