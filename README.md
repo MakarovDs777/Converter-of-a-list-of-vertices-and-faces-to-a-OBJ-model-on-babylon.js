@@ -1,5 +1,7 @@
 # Converter-of-a-list-of-vertices-and-faces-to-a-OBJ-model-on-babylon.js
 
+Не нашел создал! Я сделал конвертер масивов vertex, и faces по которым создается OBJ модель.
+
 [Converter of a list of vertices and faces to a OBJ model on babylon.js | Babylon.js Playground](https://playground.babylonjs.com/#X3KZOO#0)
 
 [Converter of a list of vertices and faces to a OBJ model on babylon.js (Version 2) | Babylon.js Playground](https://playground.babylonjs.com/#8ZQG1V#0)
@@ -19,6 +21,8 @@
 [Converter of a list of vertices and faces to a OBJ model (Version 7 - With the choice of a random sequence of numbers) | Babylon.js Playground](https://playground.babylonjs.com/#BG3QQB#0)
 
 [Converter of a list of vertices and faces to a OBJ (Version 8 - Different texture groups faces and smooth UV) | Babylon.js Playground](https://playground.babylonjs.com/#246TAV#0)
+
+Теперь нужно добавить кнопки для октрытие табло в которых можно было бы онлайн изменять faces, и vertex что-бы постоянно смотреть на изменения.
 
 [Converter of a list of vertices and faces to a OBJ (Version 9 - With an OBJ generation window via vertex, and faces) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#X7B64I)
 
