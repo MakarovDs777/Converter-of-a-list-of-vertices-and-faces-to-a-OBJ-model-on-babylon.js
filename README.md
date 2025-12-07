@@ -8,7 +8,7 @@
 
 [Converter of a list of vertices and faces to a OBJ model on babylon.js (Version 2) | Babylon.js Playground](https://playground.babylonjs.com/#8ZQG1V#0)
 
-Но мне нужно генерирвоать текстуру не через URL ссылку а процедурно.
+Но мне нужно генерировать текстуру не через URL ссылку а процедурно.
 
 [Converter of a list of vertices and faces to a OBJ model on babylon.js (Version 3 - Procedural image) | Babylon.js Playground](https://playground.babylonjs.com/#I3E1HB#0)
 
