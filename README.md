@@ -1,6 +1,6 @@
 # Converter-of-a-list-of-vertices-and-faces-to-a-OBJ-model-on-babylon.js
 
-Не нашел создал! Я сделал конвертер масивов vertex, и faces по которым создается OBJ модель.
+Не нашел создал! Я сделал конвертер вершин, и граней масивов vertex, и faces по которым создается OBJ модель.
 
 [Converter of a list of vertices and faces to a OBJ model on babylon.js | Babylon.js Playground](https://playground.babylonjs.com/#X3KZOO#0)
 
