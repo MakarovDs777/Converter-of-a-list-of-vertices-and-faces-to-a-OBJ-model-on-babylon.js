@@ -46,7 +46,7 @@
 
 Тоже что и предыдущий код только с текстурами.
 
-[Converter of a list of vertices and faces to a OBJ (Version 10 - With an OBJ generation window via vertex,faces,texture) | Babylon.js Playground](https://playground.babylonjs.com/#OBHR5E)
+[Converter of a list of vertices and faces to a OBJ (Version 10 - With an OBJ generation window via vertex,faces,texture) | Babylon.js Playground](https://playground.babylonjs.com/#OBHR5E#1)
 
 И наооборот что-бы превратить список vertex, и faces в blend модель код python:
 
