@@ -42,7 +42,7 @@
 
 Теперь нужно добавить кнопки для открытия табло в которых можно было бы онлайн изменять faces, и vertex что-бы постоянно смотреть на изменения.
 
-[Converter of a list of vertices and faces to a OBJ (Version 9 - With an OBJ generation window via vertex, and faces) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#CVIFTU#1)
+[Converter of a list of vertices and faces to a OBJ (Version 9 - With an OBJ generation window via vertex, and faces) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#CVIFTU#2)
 
 И наооборот что-бы превратить список vertex, и faces в blend модель код python:
 
