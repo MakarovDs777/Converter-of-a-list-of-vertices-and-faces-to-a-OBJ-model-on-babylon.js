@@ -50,7 +50,7 @@
 
 Стурктуры OBJ с зарнее установленными местами генерации.
 
-[Converter of a list of vertices and faces to a OBJ (Version 11-With preset OBJ structures and a preset generation local) | Babylon.js Playground](https://playground.babylonjs.com/#CZ8JJX)
+[Converter of a list of vertices and faces to a OBJ (Version 11-With preset OBJ structures and a preset generation local) | Babylon.js Playground](https://playground.babylonjs.com/#CZ8JJX#1)
 
 И наооборот что-бы превратить список vertex, и faces в blend модель код python:
 
