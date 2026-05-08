@@ -54,7 +54,7 @@
 
 Теперь нужно цветную версию сделать только не ASCII а RGB по три числа.
 
-[Converter of a list of vertices and faces to a OBJ model on babylon.js(Version 12-Procedural image generation RGB color) | Babylon.js Playground](https://playground.babylonjs.com/#RW5FRD#1)
+[Converter of a list of vertices and faces to a OBJ model on babylon.js(Version 12-Procedural image generation RGB color) | Babylon.js Playground](https://playground.babylonjs.com/#RW5FRD#2)
 
 И наооборот что-бы превратить список vertex, и faces в blend модель код python:
 
