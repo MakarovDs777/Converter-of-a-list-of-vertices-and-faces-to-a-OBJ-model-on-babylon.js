@@ -58,7 +58,7 @@
 
 И сделаем ASCII для множество картинок вряд а не для одной.
 
-[Converter of a list of vertices and faces to a OBJ model on babylon.js(Version13-Procedural ASCII image generation color) | Babylon.js Playground](https://playground.babylonjs.com/#FTUFTS)
+[Converter of a list of vertices and faces to a OBJ model on babylon.js(Version13-Procedural ASCII image generation color) | Babylon.js Playground](https://playground.babylonjs.com/#FTUFTS#1)
 
 И наооборот что-бы превратить список vertex, и faces в blend модель код python:
 
