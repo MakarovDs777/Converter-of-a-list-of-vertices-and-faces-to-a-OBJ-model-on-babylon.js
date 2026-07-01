@@ -10,11 +10,11 @@
 
 Но мне нужно генерировать текстуру не через URL ссылку а процедурно.
 
-[Converter of a list of vertices and faces to a OBJ model on babylon.js (Version 3 - Procedural image) | Babylon.js Playground](https://playground.babylonjs.com/#I3E1HB#0)
+[Converter of a list of vertices and faces to a OBJ model on babylon.js (Version 3 - Procedural ASCII image) | Babylon.js Playground](https://playground.babylonjs.com/#I3E1HB#0)
 
 Теперь нужно сделать процедурную текстуру цветной а не бесцветной.
 
-[Converter of a list of vertices and faces to a OBJ model on babylon.js (Version 4 - Procedural image generation color) | Babylon.js Playground](https://playground.babylonjs.com/#MRB975#0)
+[Converter of a list of vertices and faces to a OBJ model on babylon.js (Version 4 - Procedural ASCII image generation color) | Babylon.js Playground](https://playground.babylonjs.com/#MRB975#0)
 
 Теперь для разных faces нужно сделать разные текстуры URL.
 
@@ -55,6 +55,10 @@
 Теперь нужно цветную версию сделать только не ASCII а RGB по три числа.
 
 [Converter of a list of vertices and faces to a OBJ model on babylon.js(Version 12-Procedural image generation RGB color) | Babylon.js Playground](https://playground.babylonjs.com/#RW5FRD#3)
+
+И сделаем ASCII для множество картинок вряд а не для одной.
+
+[Converter of a list of vertices and faces to a OBJ model on babylon.js(Version13-Procedural ASCII image generation color) | Babylon.js Playground](https://playground.babylonjs.com/#FTUFTS)
 
 И наооборот что-бы превратить список vertex, и faces в blend модель код python:
 
