@@ -64,6 +64,10 @@
 
 [Converter of a list of vertices and faces to a OBJ model on babylon.js (Version 14 - ASCII images generation RGB) | Babylon.js Playground](https://playground.babylonjs.com/#D1X5AH)
 
+Сделаем множество кортэжей для каждой ASCII картинки отдельно.
+
+[Converter of a list of vertices and faces to a OBJ model on babylon.js(Version15-14v but each picture has its own tuple) | Babylon.js Playground](https://playground.babylonjs.com/#A0AM0V)
+
 И наооборот что-бы превратить список vertex, и faces в blend модель код python:
 
 [Converter-of-a-list-of-vertices-and-faces-to-a-OBJ-model](https://github.com/MakarovDs777/Converter-of-a-list-of-vertices-and-faces-to-a-OBJ-model/blob/main/convert-a-blend-file-to-a-vertex-list-and-mesh.py)
