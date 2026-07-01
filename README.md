@@ -66,7 +66,7 @@
 
 Сделаем множество кортэжей для каждой ASCII картинки отдельно.
 
-[Converter of a list of vertices and faces to a OBJ model on babylon.js(Version15-14v but each picture has its own tuple) | Babylon.js Playground](https://playground.babylonjs.com/#A0AM0V)
+[Converter of a list of vertices and faces to a OBJ model on babylon.js(Version15-14v but each picture has its own tuple) | Babylon.js Playground](https://playground.babylonjs.com/#A0AM0V#1)
 
 И наооборот что-бы превратить список vertex, и faces в blend модель код python:
 
