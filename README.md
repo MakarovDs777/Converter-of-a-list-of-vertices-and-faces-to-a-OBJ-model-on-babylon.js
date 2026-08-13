@@ -68,6 +68,10 @@
 
 [Converter of a list of vertices and faces to a OBJ model on babylon.js(Version15-14v but each picture has its own tuple) | Babylon.js Playground](https://playground.babylonjs.com/#A0AM0V#3)
 
+Сделаем строки вместо массивов через пробелы.
+
+[Converter of a list of vertices and faces to a OBJ model on babylon.js (Version 16 - No arrays just string version) | Babylon.js Playground](https://playground.babylonjs.com/#NJZNQX)
+
 И наооборот что-бы превратить список vertex, и faces в blend модель код python:
 
 [Converter-of-a-list-of-vertices-and-faces-to-a-OBJ-model](https://github.com/MakarovDs777/Converter-of-a-list-of-vertices-and-faces-to-a-OBJ-model/blob/main/convert-a-blend-file-to-a-vertex-list-and-mesh.py)
