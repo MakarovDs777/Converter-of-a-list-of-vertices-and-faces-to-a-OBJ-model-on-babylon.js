@@ -1,6 +1,6 @@
 # Converter-of-a-list-of-vertices-and-faces-to-a-OBJ-model-on-babylon.js
 
-Не нашел создал! Я сделал конвертер вершин, и граней масивов vertex, и faces по которым создается OBJ модель.
+Не нашел создал! Я сделал конвертер вершин, и граней массивов vertex, и faces по которым создается OBJ модель.
 
 [Converter of a list of vertices and faces to a OBJ model on babylon.js | Babylon.js Playground](https://playground.babylonjs.com/#X3KZOO#0)
 
@@ -36,7 +36,7 @@
 
 [Converter of a list of vertices and faces to a OBJ model (Version 7 - With the choice of a random sequence of numbers) | Babylon.js Playground](https://playground.babylonjs.com/#BG3QQB#0)
 
-Отлично теперь нужно сделать ровным UV что-бы смотрелось ровно а не рванно! 
+Отлично теперь нужно сделать ровным UV что-бы смотрелось ровно а не рваного! 
 
 [Converter of a list of vertices and faces to a OBJ (Version 8 - Different texture groups faces and smooth UV) | Babylon.js Playground](https://playground.babylonjs.com/#246TAV#0)
 
@@ -48,7 +48,7 @@
 
 [Converter of a list of vertices and faces to a OBJ (Version 10 - With an OBJ generation window via vertex,faces,texture) | Babylon.js Playground](https://playground.babylonjs.com/#OBHR5E#1)
 
-Стурктуры OBJ с зарнее установленными местами генерации.
+Структуры OBJ с заранее установленными местами генерации.
 
 [Converter of a list of vertices and faces to a OBJ (Version 11-With preset OBJ structures and a preset generation local) | Babylon.js Playground](https://playground.babylonjs.com/#CZ8JJX#1)
 
@@ -72,7 +72,11 @@
 
 [Converter of a list of vertices and faces to a OBJ model on babylon.js (Version 16 - No arrays just string version) | Babylon.js Playground](https://playground.babylonjs.com/#NJZNQX#1)
 
-И наооборот что-бы превратить список vertex, и faces в blend модель код python:
+Теперь сделаем версию с LZW.
+
+[Converter of a list of vertices and faces to a OBJ model on babylon.js (Version 17 - No arrays just strings LZW version) | Babylon.js Playground](https://playground.babylonjs.com/#BSBV83)
+
+И наоборот что-бы превратить список vertex, и faces в blend модель код python:
 
 [Converter-of-a-list-of-vertices-and-faces-to-a-OBJ-model](https://github.com/MakarovDs777/Converter-of-a-list-of-vertices-and-faces-to-a-OBJ-model/blob/main/convert-a-blend-file-to-a-vertex-list-and-mesh.py)
 
