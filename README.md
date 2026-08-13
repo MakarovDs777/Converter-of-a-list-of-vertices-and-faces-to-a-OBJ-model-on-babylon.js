@@ -70,7 +70,7 @@
 
 Сделаем строки вместо массивов через пробелы.
 
-[Converter of a list of vertices and faces to a OBJ model on babylon.js (Version 16 - No arrays just string version) | Babylon.js Playground](https://playground.babylonjs.com/#NJZNQX)
+[Converter of a list of vertices and faces to a OBJ model on babylon.js (Version 16 - No arrays just string version) | Babylon.js Playground](https://playground.babylonjs.com/#NJZNQX#1)
 
 И наооборот что-бы превратить список vertex, и faces в blend модель код python:
 
