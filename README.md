@@ -76,6 +76,10 @@
 
 [Converter of a list of vertices and faces to a OBJ model on babylon.js (Version 17 - No arrays just strings LZW version) | Babylon.js Playground](https://playground.babylonjs.com/#BSBV83)
 
+Тоже что и для картинки сделать сжатие без пробелов.
+
+[Converter of a list of vertices and faces to a OBJ model (Version 18 - No arrays just strings and texture LZW version) | Babylon.js Playground](https://playground.babylonjs.com/#8JYOUK)
+
 И наоборот что-бы превратить список vertex, и faces в blend модель код python:
 
 [Converter-of-a-list-of-vertices-and-faces-to-a-OBJ-model](https://github.com/MakarovDs777/Converter-of-a-list-of-vertices-and-faces-to-a-OBJ-model/blob/main/convert-a-blend-file-to-a-vertex-list-and-mesh.py)
@@ -84,10 +88,10 @@
 
 [Convert-a-blend-file-to-a-vertex-list-and-mesh.py](https://github.com/MakarovDs777/Convert-a-blend-file-to-a-vertex-list-and-mesh/blob/main/Convert-a-blend-file-to-a-vertex-list-and-mesh.py)
 
-Или если надо превратить OBJ модель в единный массив чисел:
+Или если надо превратить OBJ модель в единый массив чисел:
 
 [Convert-OBJ-to-a-single-array-of-numbers](https://github.com/MakarovDs777/Convert-OBJ-to-a-single-array-of-numbers/blob/main/Convert-OBJ-to-a-single-array-of-numbers.py)
 
-И наооборот единый массив чисел в OBJ модель.
+И наоборот единый массив чисел в OBJ модель.
 
 [Convert-a-single-array-of-numbers-to-an-OBJ](https://github.com/MakarovDs777/Convert-a-single-array-of-numbers-to-an-OBJ/blob/main/Convert-a-single-array-of-numbers-to-an-OBJ.py)
